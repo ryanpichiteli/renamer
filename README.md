@@ -31,7 +31,7 @@ Este projeto utiliza OCR (Tesseract) e a API da Groq (com modelo LLaMA 4) para *
 
 ```bash
 git clone https://github.com/ryanpichiteli/renamer.git
-cd seurepositorio
+cd renamer
 ```
 
 ### 2. Instale as dependências
