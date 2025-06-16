@@ -105,4 +105,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou PRs co
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **[Seu Nome](https://github.com/ryanpichiteli)** 🧠🚀
+Desenvolvido por **[Ryan Pichiteli](https://github.com/ryanpichiteli)** 🧠🚀
