@@ -20,7 +20,7 @@ Este projeto utiliza OCR (Tesseract) e a API da Groq (com modelo LLaMA 4) para *
 📂 renamer/
 ├── arquivos/       <- Coloque aqui os arquivos a serem processados
 ├── renomeados/     <- Os arquivos renomeados serão movidos para cá
-├── rename.py   <- Código principal
+├── renamer.py   <- Código principal
 ```
 
 ---
