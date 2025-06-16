@@ -17,10 +17,10 @@ Este projeto utiliza OCR (Tesseract) e a API da Groq (com modelo LLaMA 4) para *
 ## 📁 Estrutura Esperada
 
 ```
-📂 seu_projeto/
+📂 renamer/
 ├── arquivos/       <- Coloque aqui os arquivos a serem processados
 ├── renomeados/     <- Os arquivos renomeados serão movidos para cá
-├── seu_script.py   <- Código principal
+├── rename.py   <- Código principal
 ```
 
 ---
